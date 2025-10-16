@@ -4,5 +4,5 @@
 
 | 이미지 | 주소 |
 | ---- | --- |
-| <img src="./images/restaurant.png" width="50"> | [](./images/restaurant.png) |
-| <img src="./images/coffee.png" width="50"> | [](./images/coffee.png) |
+| <img src="./images/restaurant.png" width="50"> | [https://raw.githubusercontent.com/hiphop5782/map-marker/refs/heads/main/images/restaurant.png](./images/restaurant.png) |
+| <img src="./images/coffee.png" width="50"> | [https://raw.githubusercontent.com/hiphop5782/map-marker/refs/heads/main/images/coffee.png](./images/coffee.png) |
